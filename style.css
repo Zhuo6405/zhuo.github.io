@@ -1,0 +1,22 @@
+.container{
+    display: block;
+}
+.container .box{
+    border: 1px solid rgb(17, 16, 16);
+    padding: 100px;
+}
+.box1{
+    display: flex;
+}
+.title1{
+    display: flex;
+    color: black;
+    background-color: gray;
+    /* opacity: 0.3; */
+    width: 75%;
+}
+.title1 a{
+    font-size: 64pt;
+    font-family: 標楷體;
+}
+
