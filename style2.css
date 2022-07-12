@@ -1,0 +1,12 @@
+.title1{
+    display: flex;
+    justify-content: center;
+    font-size: 64pt;
+    font-family: 微軟正黑體;
+}
+.back{
+    display: flex;
+    justify-content: left;
+    font-size: 24pt;
+    font-family: 微軟正黑體;
+}
